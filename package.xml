@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>zed_models</name>
+  <version>0.0.1</version>
+  <description>ZED camera models</description>
+
+  <maintainer email="rain.epp@ualberta.ca">Rain Epp</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
